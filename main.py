@@ -1,6 +1,6 @@
 import asyncio
 
-import octobot_commons.symbols as symbols
+import octobot_commons.symbols.symbol as symbols
 import octobot_commons.os_util as os_util
 
 import triangular_arbitrage.detector as detector
