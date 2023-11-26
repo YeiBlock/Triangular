@@ -1,4 +1,4 @@
 tqdm
 ccxt
 
-OctoBot-Commons==1.9.31
+OctoBot-Commons
